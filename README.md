@@ -15,6 +15,9 @@ AI Debate Agent is an LLM-powered app that can argue **for** and **against** any
 
 ## 📸 Demo Screenshot
 
+![AI Debate Agent Screenshot1](AI_debate_agent1.png)
+![AI Debate Agent Screenshot2](AI_debate_agent2.png)
+
 ## 🔧 Tech Stack
 
 - **Backend:** FastAPI, Uvicorn, Google Gemini API
