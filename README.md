@@ -29,7 +29,7 @@ AI Debate Agent is an LLM-powered app that can argue **for** and **against** any
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/AI-Debate-Agent.git
+git clone https://github.com/ivky03/AI-Debate-Agent.git
 cd AI-Debate-Agent
 ```
 
