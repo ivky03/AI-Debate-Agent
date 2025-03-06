@@ -6,7 +6,7 @@ st.title("🔥 AI Debate Agent")
 topic = st.text_input("Enter a debate topic:")
 
 if st.button("Start Debate"):
-    response = requests.post("http://127.0.0.1:8000/debate/", json={"topic": topic})
+    response = requests.post(f"https://ai-debate-agent.onrender.com/debate/", json={"topic": topic})
     if response.status_code == 200:
         data = response.json()
         st.subheader("🔹 Argument FOR:")
