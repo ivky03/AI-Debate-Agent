@@ -53,9 +53,9 @@ streamlit run ui.py
 
 ### 🎯 Future Improvements
 
-Add memory for longer debates
-Enable user feedback to improve AI responses
-Support multiple AI models (e.g., GPT, Claude)
+-Add memory for longer debates
+-Enable user feedback to improve AI responses
+-Support multiple AI models (e.g., GPT, Claude)
 
 ### 🤝 Contributing
 
